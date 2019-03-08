@@ -4,6 +4,7 @@ MomsCanCodepgh Hackathon Application
 ### Github repo: https://github.com/alteredco/RealUp.git
 ### Heroku: https://git.heroku.com/realupapp.git
 
+Project Mgmt: https://trello.com/b/i9bKwp1v/the-real-deal
 
 ### Install latest version of node:
 
